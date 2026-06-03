@@ -1,0 +1,6 @@
+{
+  "name": "TiOps",
+  "description": "TiOps: Intelligent Operations Platform for Enterprise Reliability and Operational Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
